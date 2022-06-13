@@ -1,6 +1,3 @@
-LHL Node Skeleton
-=========
-
 ## Description
 
 Quiz App is a quiz-creating, quiz-taking, and quiz-sharing web application built for education purposes.
